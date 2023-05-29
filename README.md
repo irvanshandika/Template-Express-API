@@ -23,7 +23,6 @@ Step Installation:
    ![1685207249448](image/README/1685207249448.png)
 6. Congrats, you can make your controller and routes for your project
 
-
 For prisma:
 
 - First make the table if in your database didn't has, the type format "model" make you can see in /prisma/schema.prisma
@@ -31,7 +30,6 @@ For prisma:
 - If you has already the database, you can:
   `prisma db pull`
 - Then generate the database with CLI `prisma generate`
-
 
 Dont forget to follow my social media:
 
